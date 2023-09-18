@@ -1,6 +1,3 @@
-![Alt Metin](https://example.com/resim.jpg)
-
-
 <h1 align="center">Hi 👋, I'm Ali Aliyev</h1>
 <h3 align="center">Software engineer developer from Azerbaijan</h3>
 
