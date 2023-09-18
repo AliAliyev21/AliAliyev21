@@ -1,4 +1,4 @@
-(![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fthe-andela-way%2Fthe-rise-of-modern-programming-languages-c923a2b914fc&psig=AOvVaw22RUGErTS0gQTAhVdXxrL9&ust=1695124093276000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMimn7uLtIEDFQAAAAAdAAAAABAv)
+![Alt Metin](https://example.com/resim.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Ali Aliyev</h1>
