@@ -1,33 +1,4 @@
-<h1 align="center">Hi there, I'm [Ali Aliyev] 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
----
-
-<div align="center">
-
-```
-██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔════╝██║   ██║
-██║  ██║█████╗  ██║   ██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝
-██████╔╝███████╗ ╚████╔╝
-╚═════╝ ╚══════╝  ╚═══╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+system...;%3E+Loading+developer+profile...;%3E+C%23+%7C+.NET+%7C+React+%7C+Full+Stack;%3E+Access+granted.+Welcome+%F0%9F%9F%A2" alt="Typing SVG" />
-
-</div>
-
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
-```bash
-$ whoami
-> [YOUR NAME]
+> [Ali Aliyev]
 
 $ cat developer.json
 {
@@ -43,9 +14,6 @@ $ cat developer.json
 <br clear="right"/>
 
 ---
-
-## ⚡ Tech Arsenal
-
 <div align="center">
 
 ### 🔷 Backend
@@ -70,51 +38,13 @@ $ cat developer.json
 
 </div>
 
----
-
-## 📊 Terminal Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 📡 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" />
-</div>
-
----
 
 ## 🌐 Connect
 
 <div align="center">
 
-```
-> Establishing connection...
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-
-```
-> Connection established. ✅
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-aliyev21)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.aliyevvvv21@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AliyevAli1)
 
 </div>
