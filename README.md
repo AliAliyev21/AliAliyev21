@@ -16,9 +16,6 @@ $ cat developer.json
 <br clear="right"/>
 
 ---
-
-## ⚡ Tech Arsenal
-
 <div align="center">
 
 ### 🔷 Backend
