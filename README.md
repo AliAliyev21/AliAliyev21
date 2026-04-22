@@ -1,4 +1,6 @@
-> [Ali Aliyev]
+```bash
+$ whoami
+> Ali Aliyev
 
 $ cat developer.json
 {
@@ -14,6 +16,9 @@ $ cat developer.json
 <br clear="right"/>
 
 ---
+
+## ⚡ Tech Arsenal
+
 <div align="center">
 
 ### 🔷 Backend
@@ -39,12 +44,21 @@ $ cat developer.json
 </div>
 
 
+
 ## 🌐 Connect
 
 <div align="center">
 
+```
+> Establishing connection...
+```
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-aliyev21)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.aliyevvvv21@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AliyevAli1)
+
+```
+> Connection established. ✅
+```
 
 </div>
