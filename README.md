@@ -118,15 +118,3 @@ $ cat developer.json
 ```
 
 </div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF41&style=flat-square&label=SYSTEM+VISITORS)
-
-```
-> while(alive) { eat(); sleep(); code(); repeat(); }
-```
-
-</div>
